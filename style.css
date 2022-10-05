@@ -14,7 +14,7 @@ html
 {
     width: 100%;
     height: 100vh;
-    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./images/hotelbg.jpg);
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./hotelbg.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -161,19 +161,19 @@ nav ul li{
 }
 .card1
 {
-    background-image: url(./images/veg.jpg);
+    background-image: url(./veg.jpg);
     background-position: center;
     background-size: cover;
 }
 .card2
 {
-    background-image: url(./images/nonveg.jpg);
+    background-image: url(./nonveg.jpg);
     background-position: center;
     background-size: cover;
 }
 .card3
 {
-    background-image: url(./images/cake.jpg);
+    background-image: url(./cake.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -207,7 +207,7 @@ nav ul li{
 }
 .col1
 {
-    background-image: url(./images/hotelbg.jpg);
+    background-image: url(./hotelbg.jpg);
     background-position: center;
     background-size: cover;
 }
