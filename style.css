@@ -152,6 +152,10 @@ nav ul li{
     {
         flex-direction: column;
     }
+    .row
+    {
+        flex-direction:column;
+    }
 }
 .box
 {
